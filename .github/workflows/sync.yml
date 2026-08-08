@@ -1,0 +1,23 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs automatically every 24 hours (at midnight UTC)
+  workflow_dispatch: # Allows you to manually trigger it with a button click anytime
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+
+      - name: Sync Upstream
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        with:
+          target_sync_branch: master        # Target branch in your fork
+          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
+          upstream_repository: emmabostian/developer-portfolios # The original repo
+          upstream_sync_branch: master      # Source branch from the original repo

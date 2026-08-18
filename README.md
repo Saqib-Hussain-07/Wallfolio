@@ -1430,6 +1430,7 @@ This repo can serve as inspiration for your portfolio!
 - [Prem Gangadharan](https://premsg.info)
 - [Prem Kumar Rajbhar](https://premkrrajbhar.github.io/prem_kumar_rajbhar/) [Software Developer]
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app)
+- [Prem Thatikonda] (https://premthatikonda.xyz/) [Full Stack & AI Engineer]
 - [Prince Bhayani](https://princeb.dev) [Full Stack Developer]
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
 - [Pritu Yadav](https://prituyadav.github.io)
@@ -1454,6 +1455,7 @@ This repo can serve as inspiration for your portfolio!
 - [Quint Wessels](https://quintwessels.com)
 
 ## R
+
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
@@ -1681,6 +1683,7 @@ This repo can serve as inspiration for your portfolio!
 - [Seif Osman](https://seifosman.com) [IT Store Technology Engineer | Full Stack & Security]
 - [Serdar Salim](https://serdarsalim.com) [Automation Engineer]
 - [Sergei Chestakov](https://sergei.com)
+- [Sergio Jimenez](https://sergiojimenez.vercel.app/) [Full Stack Web Developer]
 - [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
 - [Serhii Nazarov](https://www.serhii-nazarov.com) [Senior Front-End | Full Stack Engineer]
 - [Seth Hall](https://sethhallcreative.com)
@@ -1974,6 +1977,7 @@ This repo can serve as inspiration for your portfolio!
 - [Wadi3 El-Wardy](https://wadi3.codes) [Full Stack Developer | Typescript, React.js, Python]
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.github.io) [Native App Developer]
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.vercel.app) [React Native Developer]
+- [Waleed Ahmed](https://waleedahmed.site) [Full Stack Developer | Typescript, Next.js, Node.js]
 - [Walker Smith](https://walkersmith.me)
 - [Walter Veriza](https://walter-veriza.vercel.app) [Senior Product Owner | Product Manager & PMO]
 - [Wasif Amin](https://camelon.app) [Software & AI Engineer | Cybersecurity | Data Science]

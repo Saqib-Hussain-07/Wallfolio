@@ -2019,19 +2019,9 @@
     "url": "https://cade.codes"
   },
   {
-    "name": "Caiovisuals",
-    "url": "https://www.caiovisuals.com",
-    "tagline": "Front-End Developer"
-  },
-  {
     "name": "Calzye",
     "url": "https://calzye.com",
     "tagline": "AI-Powered Calculator Developer"
-  },
-  {
-    "name": "Camel Djoulako",
-    "url": "https://cameldjoulako.com",
-    "tagline": "Software Architect | Java, Spring Boot, Angular & Cloud/DevOps"
   },
   {
     "name": "Camil Bradea",
@@ -2469,10 +2459,6 @@
     "url": "https://delvin.portfolio-me.bio"
   },
   {
-    "name": "Delwer Hossain",
-    "url": "https://delwer.live"
-  },
-  {
     "name": "Demon142",
     "url": "https://demon142.net"
   },
@@ -2545,6 +2531,11 @@
   {
     "name": "Dhaval Patel",
     "url": "https://dhavalcode.com"
+  },
+  {
+    "name": "Dheeraj Akula",
+    "url": "https://dheerajakula.dev",
+    "tagline": "Software Engineer | Agent Harnesses & Developer Tools"
   },
   {
     "name": "Dheeraj Gupta",
@@ -3441,11 +3432,6 @@
     "name": "Hassan Rj",
     "url": "https://hassanrj.vercel.app",
     "tagline": "Hassan RJ Full Stack Next.js Developer"
-  },
-  {
-    "name": "Hassan Tech",
-    "url": "https://hassanx.tech",
-    "tagline": "Web Developer"
   },
   {
     "name": "Hemang Yadav",
@@ -4884,10 +4870,6 @@
     "url": "https://markodenic.com"
   },
   {
-    "name": "Markus Polzer",
-    "url": "https://www.rapidtech1898.com"
-  },
-  {
     "name": "Marouane Rassili",
     "url": "https://mrassili.com"
   },
@@ -5087,10 +5069,6 @@
     "name": "Melvin Biju",
     "url": "https://melvinbiju.vercel.app",
     "tagline": "Full Stack Dev | Graphic Designer"
-  },
-  {
-    "name": "Melvin Jones Repol",
-    "url": "https://mrepol742.github.io"
   },
   {
     "name": "Melvin Prince",
@@ -6585,11 +6563,6 @@
     "url": "https://v0idrsh.vercel.app"
   },
   {
-    "name": "Rishhi Duetheesh",
-    "url": "https://notesc.netlify.app",
-    "tagline": "Frontend Developer"
-  },
-  {
     "name": "Ritesh Bucha",
     "url": "https://bucharitesh.in",
     "tagline": "Full Stack Developer"
@@ -6960,6 +6933,11 @@
     "url": "https://skshamagarwal.github.io"
   },
   {
+    "name": "Saksham Sirohi",
+    "url": "https://saksham-sirohi.github.io",
+    "tagline": "Software Engineer | Open Source | Full Stack"
+  },
+  {
     "name": "Sakshi Hanwat",
     "url": "https://sakshi-portfolio-eta-swart.vercel.app",
     "tagline": "Java Full Stack Developer"
@@ -6992,10 +6970,6 @@
   {
     "name": "Samarth Kadam",
     "url": "https://samarthkadam.vercel.app"
-  },
-  {
-    "name": "Samarth Kosta",
-    "url": "https://xamarth.pp.ua"
   },
   {
     "name": "Sambhu Babu",
@@ -8483,10 +8457,6 @@
     "name": "Vivek Choudhary",
     "url": "https://vivekportfoliopersonal.vercel.app",
     "tagline": "Full Stack Engineer | AI Engineer"
-  },
-  {
-    "name": "Vivek Chudasama",
-    "url": "https://vivekchudasama-2004.github.io/portfolio"
   },
   {
     "name": "Vivek Ghodadra",

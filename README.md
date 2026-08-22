@@ -162,6 +162,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Ajvad Laseen](https://ajvadlaseen.com) [Full Stack Developer]
+- [Ajyendu Chaudhary](https://ajyendu.vercel.app) [Full Stack Developer]
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Kumar](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app) [Quant Developer | Full Stack]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
@@ -488,6 +489,7 @@ This repo can serve as inspiration for your portfolio!
 - [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
 - [Chanhdai](https://chanhdai.com)
 - [Charan Reddy](https://charanreddy.qzz.io) [Student | Cyber Security]
+- [Charles Degraeuwe](https://charlesdegraeuwe.com) [Student | Full Stack Engineer]
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
 - [Charles Pustejovsky Iii](https://cpustejovsky.com)
 - [Chetan Mahajan](https://chetanmahajan.vercel.app/) [Software Developer]
@@ -1274,6 +1276,7 @@ This repo can serve as inspiration for your portfolio!
 - [Naimur Reza](https://naimur-reza.vercel.app) [Software Engineer | Mid Level]
 - [Nandan Sai](https://nandan.engineer) [Full Stack Developer | AI Tools]
 - [Nanday Das](https://nandaydas.in) [Mobile App Developer]
+- [Naqqash](https://portfolionaqqash.vercel.app) [Full Stack 3D Developer]
 - [Narender Chepuri](https://narender24681.github.io) [Software Developer | Agentic AI & Real-Time Systems]
 - [Naresh Khatri](https://www.nareshkhatri.site)
 - [Naseem Khan](https://naseemkhan.dev) [Full Stack Developer | SaaS Builder | Freelancer]
@@ -1339,6 +1342,7 @@ This repo can serve as inspiration for your portfolio!
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
+- [Oluseye Oyewole](https://www.oluseye.cv)
 - [Om Takale](https://omtakale.vercel.app)
 - [Om](https://omchaudhari1107.github.io)
 - [Omar Ashraf](https://portfollio-five-nu.vercel.app) [Frontend Developer]
@@ -1528,6 +1532,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rishabh Chaturvedi](https://rishabhchaturvedi.dev) [Lead Engineer | AI Architect & Backend Systems]
 - [Rishav Kumar Singh](https://rishavkumar-portfolio.vercel.app) [Software Engineer | Full Stack Developer]
 - [Rishav](https://v0idrsh.vercel.app)
+- [Rishhi Duetheesh](https://rishhiduetheesh.netlify.app) [Frontend Developer]
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
 - [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
